@@ -20,6 +20,6 @@ class _22_Fold {
                 order(youTrack)
             }
         }
-        assertEquals(setOf(idea), testShop.getSetOfProductsOrderedByEveryCustomer())
+        assertEquals(setOf(idea), testShop. getSetOfProductsOrderedByEveryCustomer())
     }
 }
